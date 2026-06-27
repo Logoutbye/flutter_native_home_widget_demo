@@ -11,7 +11,7 @@ Theme toggle (dark/light) syncs both ways too.
 ## 📱 Demo
 
 <p align="center">
-  <img src="assets/demo.gif" width="300"/>
+  <img src="assets/demo.gif" style="max-width:700px; width:100%;" />
 </p>
 ---
 
